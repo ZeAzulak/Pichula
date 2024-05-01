@@ -15,4 +15,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"/9/qZJF]J09YSOaHUsi("}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="MD7p|{|Xsi0dC^YU|*KM"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"/9/qZJF]J09YSOaHUsi("}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="MD7p|{|Xsi0dC^YU|*KM"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block><block type="keyonevent" id="ezdCeJeFK8)`Pu`Z1Kol" x="70" y="270"><field name="button">controller.A</field><field name="event">ControllerButtonEvent.Pressed</field></block></xml>
