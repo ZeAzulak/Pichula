@@ -1,12 +1,13 @@
 {
     "name": "bullshoes project 👍",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
         "animation": "*",
         "sprite-scaling": "*",
         "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
-        "bullshoes project 👍": "github:zeazulak/pichula#5c1568c885e430fb64887b78f23a543a0766c088"
+        "bullshoes project 👍": "github:zeazulak/pichula"
     },
     "files": [
         "main.blocks",
